@@ -1,0 +1,78 @@
+# Sales Performance Analysis Dashboard Plan
+
+## Page 0 – Cover Page
+
+### Dashboard Title
+
+**Sales Performance Analysis Dashboard**
+
+### Dashboard Purpose
+
+This dashboard provides an executive overview of the sales performance of a single retail product using daily transactional data. It enables stakeholders to monitor sales performance, pricing strategies, profitability, and quantity sold while identifying trends that support informed business decision-making.
+
+### Business Objectives
+
+* Monitor overall sales performance.
+* Evaluate product profitability.
+* Compare selling price against unit cost.
+* Identify pricing trends and potential promotional periods.
+* Support data-driven pricing and sales decisions.
+
+---
+
+# Page 1 – Summary Page
+
+### Executive KPIs
+
+* Total Sales
+* Gross Profit / Loss
+* Total Quantity Sold
+* Average Unit Selling Price
+* Average Daily Gross Profit %
+
+### Executive Visuals
+
+* Daily Sales Trend
+* Daily Gross Profit Trend
+* Daily Quantity Sold
+* Selling Price vs Unit Cost Price
+
+### Purpose
+
+This page provides management with a high-level overview of the product's overall sales performance, pricing strategy, and profitability trends.
+
+---
+
+# Page 2 – Sectional Detail
+
+## Pricing & Profitability Analysis
+
+### Visuals Included
+
+* Average Unit Selling Price vs Average Unit Cost Price
+* Gross Profit by Year
+* Selling Price vs Quantity Sold (Scatter Plot)
+* Average Price Distribution
+* Top 10 Most Profitable Months
+* Sales, Cost of Sales and Gross Profit Trend
+
+### Purpose
+
+This section provides a detailed analysis of pricing behaviour and profitability by comparing selling prices with cost prices, evaluating the relationship between price and demand, identifying the most profitable periods, and monitoring sales performance over time. The visuals help determine whether pricing strategies support sustainable profitability and highlight opportunities for improving financial performance.
+
+---
+
+# Page 3 – Glossary
+
+| Term                    | Definition                                                                |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Sales                   | Total revenue generated from product sales.                               |
+| Cost of Sales           | Direct cost incurred to produce or purchase the product sold.             |
+| Quantity Sold           | Total number of product units sold.                                       |
+| Unit Selling Price      | Average selling price per unit (Sales ÷ Quantity Sold).                   |
+| Unit Cost Price         | Average cost per unit (Cost of Sales ÷ Quantity Sold).                    |
+| Gross Profit            | Sales minus Cost of Sales.                                                |
+| Gross Profit Margin (%) | Percentage of sales retained after deducting Cost of Sales.               |
+| KPI                     | Key Performance Indicator used to measure business performance.           |
+| Pricing Analysis        | Evaluation of selling price trends and their impact on sales performance. |
+| Profitability Analysis  | Assessment of the product's ability to generate profit over time.         |
